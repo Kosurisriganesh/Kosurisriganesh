@@ -75,11 +75,9 @@
 ## 🚀 Featured Projects
 
 ### 📈 Candles & Capital
-
 Stock Market EdTech Platform designed for online learning and stock market education.
 
-🔗 **Live Website**  
-https://candlesandcapital.in/
+🌐 Live Website: https://candlesandcapital.in/
 
 ✨ Features:
 - User Authentication
@@ -95,11 +93,10 @@ https://candlesandcapital.in/
 ---
 
 ### 🏠 House Project
-
 Real Estate Platform for buying and selling houses.
 
 ✨ Features:
-- House Listings
+- Property Listings
 - Property Details
 - Responsive Design
 - Modern UI
@@ -108,6 +105,116 @@ Real Estate Platform for buying and selling houses.
 `React.js` `CSS3`
 
 ---
+
+### 🌐 Portfolio Website
+Personal portfolio website showcasing my skills, projects, and achievements.
+
+✨ Features:
+- Responsive Design
+- Project Showcase
+- Contact Form
+- Professional UI
+
+🛠️ Tech Stack:
+`HTML5` `CSS3` `JavaScript` `React.js`
+
+---
+
+### ✅ Todo List Application
+Task management application for organizing daily activities.
+
+✨ Features:
+- Add Tasks
+- Delete Tasks
+- Mark as Completed
+- Local Storage Support
+
+🛠️ Tech Stack:
+`HTML5` `CSS3` `JavaScript`
+
+---
+
+### 🔊 Text to Speech Converter
+Web application that converts text into spoken audio.
+
+✨ Features:
+- Text-to-Voice Conversion
+- Multiple Voice Options
+- Easy-to-Use Interface
+
+🛠️ Tech Stack:
+`HTML5` `CSS3` `JavaScript` `React.js`
+
+---
+
+### 🔐 Login & Registration Page
+Modern authentication UI with form validation.
+
+✨ Features:
+- Login Form
+- Registration Form
+- Responsive Design
+- Validation Support
+
+🛠️ Tech Stack:
+`HTML5` `CSS3` `JavaScript` `React.js`
+
+---
+
+### 🍔 Food Website
+Responsive restaurant and food ordering website.
+
+✨ Features:
+- Menu Showcase
+- Responsive Design
+- Attractive UI
+- Interactive Sections
+
+🛠️ Tech Stack:
+`HTML5` `CSS3` `JavaScript`
+
+---
+
+### 🎬 Movie Search Application
+Movie discovery application with search functionality.
+
+✨ Features:
+- Search Movies
+- View Movie Details
+- API Integration
+- Responsive Design
+
+🛠️ Tech Stack:
+`React.js` `JavaScript` `REST API` `css`
+
+---
+
+### ☁️ AWS Cloud Hosting Project
+Website deployment and hosting using AWS services.
+
+✨ Features:
+- Static Website Hosting
+- HTTPS Security
+- CDN Distribution
+- Domain Mapping
+
+🛠️ Services Used:
+`AWS S3` `CloudFront` `Route 53` `ACM`
+
+---
+
+### 🔑 Authentication System
+Backend authentication and authorization implementation.
+
+✨ Features:
+- User Registration
+- Secure Login
+- JWT Authentication
+- Protected Routes
+- Role-Based Access Control
+
+🛠️ Tech Stack:
+`Node.js` `Express.js` `MongoDB` `JWT`
 
 ## ☁️ AWS & Cloud Skills
 
