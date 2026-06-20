@@ -33,6 +33,7 @@
 ## Projects
 
 ### Candles & Capital
+https://candlesandcapital.in/
 Stock Market EdTech Platform
 
 **Tech Stack:**
