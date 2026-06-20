@@ -1,44 +1,56 @@
 <h1 align="center">Hi 👋, I'm Kosuri Sri Ganesh</h1>
-<h3 align="center">🚀 Full Stack Developer | ☁️ AWS Cloud Enthusiast | 💻 React.js Developer</h3>
+
+<h3 align="center">
+🚀 Full Stack Developer | ☁️ AWS Cloud Enthusiast | 💻 React.js Developer
+</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kosuri-sri-ganesh">
-    <img src="https://img.shields.io/badge/LinkedIn-Kosuri%20Sri%20Ganesh-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:kosurisriganesh@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React.js+%7C+Node.js+%7C+MongoDB;AWS+Cloud+Enthusiast;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kosurisriganesh&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+<a href="https://www.linkedin.com/in/kosuri-sri-ganesh">
+<img src="https://img.shields.io/badge/LinkedIn-Kosuri%20Sri%20Ganesh-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:kosurisriganesh@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
+</a>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Kosurisriganesh&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-💻 Full Stack Developer with hands-on experience building scalable web applications.
+💻 Full Stack Developer passionate about building scalable and responsive web applications.
 
-🌱 Currently learning **Cloud Computing, AWS, DevOps, and CI/CD**
+🌱 Currently learning:
+- AWS Cloud
+- DevOps
+- CI/CD Pipelines
+- GitHub Actions
 
-🔭 Developed real-world projects using:
+🔭 Experienced with:
 - React.js
 - Node.js
 - Express.js
 - MongoDB
 - Firebase
-- AWS
+- AWS Services
 
-🎯 Looking for opportunities as:
-- Software Developer
-- Full Stack Developer
-- Cloud Engineer
-- Frontend Developer
+🎯 Open To:
+- Software Developer Roles
+- Full Stack Developer Roles
+- Frontend Developer Roles
+- Cloud Engineer Roles
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### 🎨 Frontend
 
@@ -61,7 +73,7 @@
 ### ☁️ Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,github,git" />
+<img src="https://skillicons.dev/icons?i=aws,github,git,docker" />
 </p>
 
 ### 🧰 Tools
@@ -72,200 +84,193 @@
 
 ---
 
-## 🚀 Featured Projects
+# 🎯 Current Focus
 
-### 📈 Candles & Capital
-Stock Market EdTech Platform designed for online learning and stock market education.
+✅ AWS Cloud Computing
 
-🌐 Live Website: https://candlesandcapital.in/
+✅ GitHub Actions & CI/CD
 
-✨ Features:
-- User Authentication
+✅ Full Stack Development
+
+✅ System Design Fundamentals
+
+✅ Building Production Ready Applications
+
+---
+
+# 🚀 Featured Projects
+
+## 📈 Candles & Capital
+
+🌐 https://candlesandcapital.in/
+
+Stock Market EdTech Platform
+
+### Features
+- Authentication & Authorization
 - Course Enrollment
 - Personalized Dashboard
-- Admin Access Control
+- Admin Access Management
 - Video Learning Platform
-- Course Progress Tracking
+- Progress Tracking
 
-🛠️ Tech Stack:
+### Tech Stack
 `React.js` `Node.js` `Express.js` `MongoDB` `Firebase` `AWS`
 
 ---
 
-### 🏠 House Project
-Real Estate Platform for buying and selling houses.
+## 🏠 House Project
 
-✨ Features:
+Real Estate Platform
+
+### Features
 - Property Listings
-- Property Details
-- Responsive Design
-- Modern UI
+- Responsive UI
+- Modern Design
 
-🛠️ Tech Stack:
+### Tech Stack
 `React.js` `CSS3`
 
 ---
 
-### 🌐 Portfolio Website
-https://kosurisriganesh.github.io/portfolio/
-Personal portfolio website showcasing my skills, projects, and achievements.
+## 🌐 Portfolio Website
 
-✨ Features:
-- Responsive Design
-- Project Showcase
-- Contact Form
-- Professional UI
+🌐 https://kosurisriganesh.github.io/portfolio/
 
-🛠️ Tech Stack:
-`HTML5` `CSS3` `JavaScript` `React.js`
+### Tech Stack
+`React.js` `HTML5` `CSS3` `JavaScript`
 
 ---
 
-### ✅ Todo List Application
-Task management application for organizing daily activities.
+## ✅ Todo List Application
 
-✨ Features:
-- Add Tasks
-- Delete Tasks
-- Mark as Completed
-- Local Storage Support
+### Features
+- Add/Delete Tasks
+- Mark Completed
+- Local Storage
 
-🛠️ Tech Stack:
+### Tech Stack
 `HTML5` `CSS3` `JavaScript`
 
 ---
 
-### 🔊 Text to Speech Converter
-Web application that converts text into spoken audio.
+## 🔊 Text To Speech Converter
 
-✨ Features:
-- Text-to-Voice Conversion
+### Features
+- Text To Voice Conversion
 - Multiple Voice Options
-- Easy-to-Use Interface
 
-🛠️ Tech Stack:
-`HTML5` `CSS3` `JavaScript` `React.js`
-
----
-
-### 🔐 Login & Registration Page
-Modern authentication UI with form validation.
-
-✨ Features:
-- Login Form
-- Registration Form
-- Responsive Design
-- Validation Support
-
-🛠️ Tech Stack:
-`HTML5` `CSS3` `JavaScript` `React.js`
+### Tech Stack
+`React.js` `JavaScript`
 
 ---
 
-### 🍔 Food Website
-Responsive restaurant and food ordering website.
+## 🔐 Login & Registration Page
 
-✨ Features:
-- Menu Showcase
+### Features
+- Form Validation
+- Authentication UI
+
+### Tech Stack
+`React.js` `JavaScript` `CSS3`
+
+---
+
+## 🍔 Food Website
+
+### Features
+- Restaurant Landing Page
 - Responsive Design
-- Attractive UI
-- Interactive Sections
 
-🛠️ Tech Stack:
+### Tech Stack
 `HTML5` `CSS3` `JavaScript`
 
 ---
 
-### 🎬 Movie Search Application
-Movie discovery application with search functionality.
+## 🎬 Movie Search Application
 
-✨ Features:
+### Features
 - Search Movies
-- View Movie Details
+- Movie Details
 - API Integration
-- Responsive Design
 
-🛠️ Tech Stack:
-`React.js` `JavaScript` `REST API` `css`
-
----
-
-### ☁️ AWS Cloud Hosting Project
-Website deployment and hosting using AWS services.
-
-✨ Features:
-- Static Website Hosting
-- HTTPS Security
-- CDN Distribution
-- Domain Mapping
-
-🛠️ Services Used:
-`AWS S3` `CloudFront` `Route 53` `ACM`
+### Tech Stack
+`React.js` `REST API`
 
 ---
 
-### 🔑 Authentication System
-Backend authentication and authorization implementation.
+## ☁️ AWS Cloud Hosting Project
 
-✨ Features:
-- User Registration
-- Secure Login
-- JWT Authentication
+### Services
+- AWS EC2
+- AWS S3
+- CloudFront
+- Route 53
+- ACM
+
+---
+
+## 🔑 JWT Authentication System
+
+### Features
+- User Authentication
 - Protected Routes
-- Role-Based Access Control
+- Role Based Access
 
-🛠️ Tech Stack:
+### Tech Stack
 `Node.js` `Express.js` `MongoDB` `JWT`
 
-## ☁️ AWS & Cloud Skills
+---
 
-✅ AWS EC2
+# ☁️ AWS Skills
 
-✅ AWS S3
-
-✅ AWS Route 53
-
-✅ AWS CloudFront
-
-✅ AWS Certificate Manager (ACM)
-
-✅ Website Deployment
-
-✅ GitHub Actions (Learning)
+- AWS EC2
+- AWS S3
+- AWS CloudFront
+- AWS Route 53
+- AWS ACM
+- Static Website Hosting
+- Domain Configuration
+- SSL Setup
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kosurisriganesh&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kosurisriganesh&layout=compact&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kosurisriganesh&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kosurisriganesh&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kosurisriganesh&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=Kosurisriganesh&theme=tokyonight" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kosurisriganesh&theme=tokyonight&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Kosurisriganesh&theme=tokyonight&row=1&column=7" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 📈 Contribution Graph
 
-<p align="left">
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kosurisriganesh&theme=tokyo-night" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p>
 <a href="https://www.linkedin.com/in/kosuri-sri-ganesh">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
@@ -277,7 +282,7 @@ Backend authentication and authorization implementation.
 
 ---
 
-### 💡 Quote
+# 💡 Quote
 
 > "Building scalable web applications while continuously learning Cloud, DevOps, and modern software engineering practices."
 
