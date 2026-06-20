@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Kosuri Sri Ganesh 👋
 
-<!--
-**Kosurisriganesh/Kosurisriganesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Full Stack Developer
+- Skilled in React.js, Node.js, Express.js, MongoDB
+- AWS Cloud Enthusiast
+- Passionate about Web Development and Cloud Computing
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MongoDB
+- SQL
+
+### Cloud & Tools
+- AWS EC2
+- AWS S3
+- Route 53
+- CloudFront
+- Git & GitHub
+- Postman
+
+## Projects
+
+### Candles & Capital
+Stock Market EdTech Platform
+
+**Tech Stack:**
+React.js, Node.js, Express.js, MongoDB, Firebase Auth
+
+### House Project
+Real Estate Platform for buying and selling houses
+
+**Tech Stack:**
+React.js,css
+
+## Connect With Me
+
+- LinkedIn: www.linkedin.com/in/kosuri-sri-ganesh
+- Email: kosurisriganesh@gmail.com
+
+⭐ Open to Software Developer, Cloud Engineer, and Full Stack Developer opportunities.
